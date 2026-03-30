@@ -1,0 +1,2 @@
+SQL Injection Detected: username=%27%20OR%201=1%20--ImmutableMultiDict([])
+SQL Injection Detected: username=%27%20OR%201=1%20--ImmutableMultiDict([])
